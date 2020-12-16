@@ -1,2 +1,2 @@
-# logicadeprog1
-exercícios feitos em C referente à Disciplina Lógica de Programação I
+# lipdeprog1
+exercícios feitos em C referente à Disciplina Linguagem de Programação I - UFMA
